@@ -1,6 +1,14 @@
+---
+layout: default
+---
+
+
 title: Twilight
 description: >-  
   Twilight is a Jekyll theme born in the hush between day and night—a space for thoughts unspoken, code unwritten, dreams unfurled.
   It’s not just a theme. It’s a quiet rebellion against noise.
   For the night-minded wanderer, the terminal poet, the builder who waits for the world to sleep before they ship.
 
+sass:
+  sass_dir: _sass
+  style: compressed
